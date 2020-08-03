@@ -1,5 +1,18 @@
-### Hi there 👋
+# Hello! 😄
 
+   Welcome to my Github. If you found this by accident let me introduce myself. I am a freelance web developer based in NYC with a love for Node JS. My current skills focus around backend development.
+
+## Languages:
+ - Javascript ( Typescript & Node JS )
+ - C++
+ 
+## Software:
+ - MongoDB
+ - Docker
+ 
+ ## Currently Working On:
+ - [Osiris Software](https://osirisrafflebot.com/)
+ - [🌱](https://chewy.xyz/)
 <!--
 **woof1001/woof1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
