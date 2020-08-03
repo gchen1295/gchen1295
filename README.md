@@ -1,14 +1,17 @@
 # Hello! 😄
 
-   Welcome to my Github. If you found this by accident let me introduce myself. I am a freelance web developer based in NYC with a love for Node JS. My current skills focus around backend development.
+   Welcome to my Github. If you found this by accident let me introduce myself. I am a freelance web developer based in NYC with a love for Node JS. My current skills focus around backend development. Lately I have been working on developing my Node JS skills with projects related to ECommerce and working on my frontend skills.
 
 ## Languages:
  - Javascript ( Typescript & Node JS )
  - C++
  
-## Software:
+## Technologies I Use:
  - MongoDB
+ - LowDB
  - Docker
+ - React
+ - Bootstrap / Sass
  
  ## Currently Working On:
  - [Osiris Software](https://osirisrafflebot.com/)
