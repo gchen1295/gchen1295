@@ -1,6 +1,6 @@
 # Hello! Lets create something together. 😄
 
-   Welcome to my Github. If you found this by accident let me introduce myself. I am a freelance web developer based in NYC with a love for web development. My current skills focus around backend development. Lately I have been working on developing my Node JS skills with projects related to ECommerce and working on my frontend skills.
+   Welcome to my Github. If you found this by accident let me introduce myself. I am a freelance web developer based in NYC with a love for web development. My current skills focus around backend development. Lately I have been working on learning Go Lang as well as more frontend related skills.
 
 ## Languages:
  - Javascript ( Typescript & Node JS )
