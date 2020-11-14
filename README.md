@@ -14,7 +14,6 @@
  - Bootstrap / Sass
  
  ## Currently Working On:
- - [Osiris Software](https://osirisrafflebot.com/)
  - [🌱](https://chewy.xyz/)
 <!--
 **woof1001/woof1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
