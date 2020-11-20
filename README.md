@@ -13,9 +13,11 @@
  - React
  - Bootstrap / Sass
  
+ [![~Woof~'s Github Stats](https://github-readme-stats.vercel.app/api?username=woof1001&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+ <!--
  ## Currently Working On:
  - [🌱](https://chewy.xyz/)
-<!--
+
 **woof1001/woof1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
