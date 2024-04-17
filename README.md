@@ -1,10 +1,12 @@
 # Hello! 😄
 
-   Welcome to my Github. 
+   Welcome to my Github. Let's build something together 🌱
 
-## Languages I Use:
+## My favorite languages:
  - Go
- - Javascript ( Typescript & Node JS )
+ - Javascript / Typescript
+ - English (Sorry please 🐻 with me)
+
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gchen1295&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  <!--
