@@ -5,7 +5,6 @@
 ## My favorite languages:
  - Go
  - Javascript / Typescript
- - English (Sorry please 🐻 with me)
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gchen1295&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
